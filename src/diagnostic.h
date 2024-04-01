@@ -42,7 +42,7 @@
 #include <sstream>
 #include <list>
 #include <memory>
-
+#define throw(...)
 /** \file diagnostic.h
  *   This file defines types supporting the production of diagnostics.
  */
